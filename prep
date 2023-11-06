@@ -1,0 +1,135 @@
+My Projects and technologies that i have used in my journey
+git vs github
+session vs cookie
+indexing in
+javascript jquery react ->interpreted
+how many ways form can be validate
+in password which is used : encryption or hashing
+What is event bubbling? How react re renders? How cookies stores information.? What is hashing and encryption? Which is faster react or javascript? Explain one project. What is session. Why prevent default if needed
+IP address
+JavaScript ReactJs and jQuery execution time
+HTTP vs HTTPS
+Can we use Git without GitHub?
+Where does Git store data?
+Is basic email registration through JavaScript sufficient for security purposes? What are the alternatives?
+Can we use sessions without cookies
+Suppose your site is experiencing high traffic, causing lag. How would you manage it to reduce server load?
+Explain horizontal and vertical scaling.
+In Linux, how can you check which process or application is consuming the most storage/memory and how can you remove it?
+How do you terminate a running process?
+Which process is utilizing the most resources?
+What is a Docker volume?
+Differentiate between an image and a container in Docker.
+How would you take backups of your servers?
+• merge a specific git commit from a feature branch to main branch
+react | jsx | | react -> js compiling | babel | es6
+validation : client vs server | budget constraints
+core web vitals | rendering performance
+e2e encryption ->in group e2e in wp
+blowfish ,hashing | bcrypt
+questions about technologies used in projects w/ implementation details
+server performance optimization
+plus questions from Shaurya's pdf
+Round 2
+Elevator request optimization algorithm
+how to scale a web service from 100 to a million users
+Following are the Questions that I got asked 1. JavaScript and React are Compiled or Interpreted languages? 2. Can we use git without GitHub ? 3. How to validate email? 4. what is encryption, Decryption and hashing? what we use for password storing in database? 5.How to design Captcha from scratch?
+1) what is session and cookie
+will session work without cookie
+2) what is difference between git and github
+3) what if we accidentally pushed
+environment file of our application to github
+than how can we delete it and also delete the
+history related to that file.
+4) what is encryption and hashing
+5) what is rainbow table
+6) what is salt in hashing
+7) what whatsapp uses for its security
+encryption or hashing
+7) explain whatsapp encryption algorithm
+8) How can | make my website/application
+slow
+9) what are indexes in database in depth
+10) how can | performe form validation on
+website
+11) which type of validation is better client or
+server side
+12)How youtube video quality controller
+actually works and manages quality
+automatically according to its clients latency
+13)How can | make my website fast( with the
+help of cloud and also without the help of
+cloud computing).
+14) which one is the fastest among them
+(Javascript vs react vs jquery) and also
+explain why.
+15) How can | create a captcha for my
+application and where does actually captch
+string or image gets stored.
+TOPICS:
+• WordPress
+• PHP
+• Security
+• Hashing
+• Encryption
+• JavaScript (JS)
+• Document Object Model (DOM)
+• Cascading Style Sheets (CSS)
+• HTML5
+• Debugging
+• CSRF (Cross-Site Request Forgery)
+• Caching
+• Cookies
+• Sessions
+• Closures
+• Promise
+• Async/Await
+• MySQL
+• Web security
+• DBMS concepts
+• ReactJS
+• Virtual DOM
+• Webpack plugins and loaders
+• Git and GitHub
+• Web Traffic and optimization
+• Database access in PHP
+• Web services
+• SQL and Normalization
+• Docker (image, container, volume)
+
+QUESTIONS:
+1. What is HTTP? What's the difference between HTTP and HTTPS?
+2. What is jQuery? Which is more efficient, jQuery or JavaScript?
+3. Can you view session and cookie data from the client browser?
+4. Explain React and its advantages. How does it differ from plain JavaScript?
+5. Describe the different mail services and protocols. At which OSI Model layer do
+they operate?
+6. How would you throttle a very fast website?
+7. How would you address a slow website even when hosted on top-tier
+hardware?
+8. Is Git essential for GitHub?
+9. How can you insert a string into a numbers-only input box in HTML?
+10. How would you construct a video quality controller similar to YouTube?
+11. How would you create a captcha without a database, session, or cookies?
+12. How would you access the DOM using jQuery and using JS?
+13. What is virtual DOM?
+14. Are JavaScript and React compiled or interpreted languages?
+15. How would you validate an email?
+16. Describe encryption, decryption, and hashing. What's used for password
+storage in a database?
+17. How would you design a Captcha from scratch?
+18. Explain the difference between Git and GitHub.
+19. What is a web server? Describe sessions, cookies, and session IDs.
+20. Can you use sessions without cookies?
+21. How would you manage a site experiencing high traffic to reduce server load?
+23. In Linux, how can you monitor and manage resource-consuming processes?
+24. Differentiate between a Docker image and container.
+25. What is event bubbling in JS?
+26. How does React manage re-renders?
+27. Explain a specific project you've worked on.
+28. Why might you use preventDefault in JavaScript?
+29. Describe session beans.
+30. What is "salt" in hashing?
+
+
+ db
